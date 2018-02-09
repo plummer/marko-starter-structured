@@ -1,0 +1,22 @@
+{
+  "name": "marko-starter-structured",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "browser-refresh server.js",
+    "production": "NODE_ENV=production npm start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lasso/marko-taglib": "^1.0.6",
+    "browser-refresh-taglib": "^1.1.0",
+    "express": "^4.16.2",
+    "lasso": "^3.1.2",
+    "lasso-marko": "^2.4.0",
+    "lasso-sass": "^3.0.0",
+    "marko": "^4.7.5"
+  }
+}
