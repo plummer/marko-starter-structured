@@ -1,5 +1,10 @@
+@import "../../style/global";
+
 $blue: blue;
 
 body {
+
 	color: $blue;
+	@include bp(m) { color: red; }
+
 }
