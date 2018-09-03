@@ -1,4 +1,4 @@
-# Marker Starter Structured
+# Marko Starter Structured
 
 A starter project for isomorphic marko that contrasts with the standard Express.js example with:
 
